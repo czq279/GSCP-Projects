@@ -54,10 +54,10 @@ v_z = 0 AU/yr
 ### Velocity (AU/yr)
 ![Screenshot from 2024-12-10 02-48-59](https://github.com/user-attachments/assets/53cc7551-0ee5-4066-8adc-367e5f560555)
 
-### Acceleration (AU/yr2)
+### Acceleration (AU/yr^2)
 ![Screenshot from 2024-12-10 02-45-55](https://github.com/user-attachments/assets/a55fbca6-5aee-4a3a-b62b-a2766d73bce8)
 
-### Total, Potential, and Kinetic Energy (M🜨 • AU2/yr2)
+### Total, Potential, and Kinetic Energy (M🜨 • AU^2/yr^2)
 ![Screenshot from 2024-12-10 02-55-20](https://github.com/user-attachments/assets/796760f2-d95c-43c1-8b53-1ba5d88a57db)
 
 
