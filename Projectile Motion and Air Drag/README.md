@@ -19,9 +19,9 @@ Calculate the initial acceleration of the object. Using that acceleration, calcu
 
 **Air Drag**
 
-Force of air drag: FD = ½ρv2CdA
+Force of air drag: FD = ½ρ(v^2)CdA
 
-Acceleration of air drag: A = ½ρv2CdA/m
+Acceleration of air drag: A = ½ρ(v^2)C_dA/m
 
 where ρ is the density of the fluid (in this case air), v is the speed of the object, Cd is the drag coefficient, and A is the cross sectional area of the object. 
 
@@ -42,7 +42,7 @@ g = -9.8 m/s
 
 **Air Drag**
 
-ρ = 1.225 kg/m3
+ρ = 1.225 kg/m^3
 
 Cd = 0.47
 
@@ -57,10 +57,13 @@ Velocity (in the y direction), v0 = +1 m/s
 ### Graphs
 
 #### Position (m)
+![Screenshot from 2024-12-10 04-58-40](https://github.com/user-attachments/assets/aaa00280-ccf0-445b-98e4-ee9d01722e71)
 
 #### Velocity (m/s)
+![Screenshot from 2024-12-10 04-58-17](https://github.com/user-attachments/assets/3901b60c-6d3f-4eb8-98e9-6990cee48935)
 
-#### Acceleration (m/s2)
+#### Acceleration (m/s^2)
+![Screenshot from 2024-12-10 04-57-25](https://github.com/user-attachments/assets/7bbc384b-6d77-4993-a444-bc6c9ce0f533)
 
 ### Results
 Total fall time: 1.5550 s
@@ -88,10 +91,13 @@ r = 0.037 m
 ### Graphs
 
 #### Position (m)
+![Screenshot from 2024-12-10 04-49-49](https://github.com/user-attachments/assets/2fa0b63a-6a60-4229-b5ed-a51e7417c5c3)
 
 #### Velocity (m/s)
+![Screenshot from 2024-12-10 04-49-17](https://github.com/user-attachments/assets/b9d4c98a-e2df-4665-a65b-3ddc4153070e)
 
-#### Acceleration (m/s2)
+#### Acceleration (m/s^2)
+![Screenshot from 2024-12-10 04-48-39](https://github.com/user-attachments/assets/16e522e0-daf9-409e-8129-187ccbbacf4a)
 
 ### Results
 
