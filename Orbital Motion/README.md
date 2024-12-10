@@ -18,33 +18,33 @@ Then, using a weighted average (weighing k2 and k3 double that of k1 and k4), fi
 
 Gravitational Force: 
 
-- F_G = GMm/r2
+- F_G = GMm/r^2
     - ΣF = ma
-    - ma = GMm/r2
-- Acceleration of Earth: a = GM/r2
+    - ma = GMm/r^2
+- Acceleration of Earth: a = GM/r^2
 - Potential energy: U = -GMm/r
 
 where r is the distance between the objects’ center of mass, M is the mass of the Sun, and m is the mass of the Earth. G is the universal gravitational constant
 
 ## Constants
-GM = 4π2 AU3/yr2
+GM = 4π^2 AU^3/yr^2
 τ = 0.001 yrs
-m = 1 M🜨
+m = 1 M_🜨
 
 ## Example
 _Initial Conditions_
 
-rx = 1 AU
+r_x = 1 AU
 
-ry = 0 AU
+r_y = 0 AU
 
-rz = 0 AU
+r_z = 0 AU
 
-vx = 0 AU/yr
+v_x = 0 AU/yr
 
-vy = 2π AU/yr
+v_y = 2π AU/yr
 
-vz = 0 AU/yr
+v_z = 0 AU/yr
 
 ## Graphs
 
