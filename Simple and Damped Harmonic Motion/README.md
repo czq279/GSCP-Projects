@@ -22,9 +22,9 @@ Calculate the acceleration of the object. Using that acceleration, calculate the
 
 ### General
 
-Period: T = 2π(m/k)1/2
+Period: T = 2π(m/k)^(1/2)
 
-Spring potential energy: Us = ½kx2
+Spring potential energy: Us = ½kx^2
 
 ### SHM
 
@@ -61,12 +61,16 @@ Cycles: 10
 ### Graphs
 
 #### Position (m)
+![Screenshot from 2024-12-10 05-38-07](https://github.com/user-attachments/assets/fbf16d5b-e189-4ffd-ae5c-341da5530ba0)
 
 #### Velocity (m/s)
+![Screenshot from 2024-12-10 05-37-53](https://github.com/user-attachments/assets/73d4fedb-8f21-4a6e-b457-fa7176a6f2f1)
 
-#### Acceleration (m/s2)
+#### Acceleration (m/s^2)
+![Screenshot from 2024-12-10 05-37-40](https://github.com/user-attachments/assets/44707e51-d208-4145-90e7-54e0e606624f)
 
 #### Total, Potential, and Kinetic Energy (J)
+![Screenshot from 2024-12-10 05-38-44](https://github.com/user-attachments/assets/484e4349-92f7-4c5a-aa89-2e85353c3106)
 
 ## DHM Example
 
@@ -85,12 +89,16 @@ Damping coefficient: 0.01 kg/s
 ### Graphs
 
 #### Position (m)
+![Screenshot from 2024-12-10 05-35-11](https://github.com/user-attachments/assets/4a4b84c1-9d0e-4da2-80e2-bdc3bfdcc246)
 
 #### Velocity (m/s)
+![Screenshot from 2024-12-10 05-35-01](https://github.com/user-attachments/assets/a0e7b99a-d262-49cc-abd4-89032a3c1b19)
 
-#### Acceleration (m/s2)
+#### Acceleration (m/s^2)
+![Screenshot from 2024-12-10 05-34-37](https://github.com/user-attachments/assets/8e8f60c3-ed13-4898-ab6e-1b28a3e1755c)
 
 #### Total, Potential, and Kinetic Energy (J)
+![Screenshot from 2024-12-10 05-35-37](https://github.com/user-attachments/assets/8324bf1a-a29a-49b6-b1b8-254a97d06e93)
 
 
 
