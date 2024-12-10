@@ -2,6 +2,8 @@ program orbital
 
 implicit none
 
+!units: 
+
 real(8), dimension(3) :: r, v, a
 real(8), dimension(3) :: k1v, k2v, k3v, k4v, k1a, k2a, k3a, k4a, tempr, tempv
 real(8) :: pi, tau, t, GM, K, U, E, m
